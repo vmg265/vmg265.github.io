@@ -36,5 +36,6 @@ PINOUT:
 <img width="1080" height="1080" alt="26-08-08_00-20-46-633" src="https://github.com/user-attachments/assets/c3d5a175-606c-4bda-8b5f-dcbc08f7c5a4" />
 
 
+
 **TRRS reference (female will be inverse of this, from top to bottom)**
 <img width="193" height="256" alt="images-trrs" src="https://github.com/user-attachments/assets/6e9a67c9-6cad-4ee3-9b4b-d23ee2ee7dea" />
