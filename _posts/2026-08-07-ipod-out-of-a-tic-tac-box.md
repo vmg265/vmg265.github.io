@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to make an iPod at home for 4$ and a Tic-Tac box"
-date: 2026-08-07 23:52:00 -0530
+date: 2026-08-07 23:52:00 +0530
 categories: [blog]
 ---
 
@@ -39,3 +39,15 @@ PINOUT:
 
 **TRRS reference (female will be inverse of this, from top to bottom)**
 <img width="193" height="256" alt="images-trrs" src="https://github.com/user-attachments/assets/6e9a67c9-6cad-4ee3-9b4b-d23ee2ee7dea" />
+
+The original yt short
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 90%; margin: 0 auto; border-radius: 12px;">
+  <iframe 
+    src="https://www.youtube.com/embed/BGqtFW77P_g" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 12px;">
+  </iframe>
+</div>
