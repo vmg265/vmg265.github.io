@@ -9,6 +9,7 @@ categories: [blog]
 Here is a paragraph with **bold text**, *italics*, or lists:
 - First point
 - Second point
+
 {% endcomment %}
 
 **A follow up of my 2yr old YouTube short**
@@ -19,3 +20,21 @@ The GPD2846A has a mono audio out via its SPK+ and SPK- pins. I have connected t
 Another thing I would change if I build a new one is I would add a 5v buck boost voltage regulator, these small modules keep the voltage at a steady 5v which the GPD2846a will happily run off of. The show build just got nominal 3.7v (same as the attached lipo battery) which means it'll fluctuate between 3v-4.2v and although the module still works it can shutdown under very low voltages and can potentially damage the module or the SD card. So I do recommend adding that 5v buck boost voltage converter and regulator
 
 <img src="path/to/your-image.jpg" alt="Description of image" style="width: 90%; max-width: 100%; height: auto; border-radius: 12px; display: block; margin: 0 auto;" />
+
+PINOUT:
+**GPD2846A**
+1. GND  ---- TP4056's OUT-
+2. BAT+ ---- TP4056's OUT+ through a 5v buck boost convertor
+3. SP+  ---- RING1 & TIP (shorted because of mono audio)
+4. SP-  ---- to RING2 (TRRS's GND pin) or you can connect RING2 to GPD2846a's GND pin
+5. unnamed paired pins are
+   ☐☐ ---- Next (+/-)
+   ☐☐ ---- Pause (+/-)
+   ☐☐ ---- Previous (+/-)
+
+
+<img width="1080" height="1080" alt="26-08-08_00-20-46-633" src="https://github.com/user-attachments/assets/c3d5a175-606c-4bda-8b5f-dcbc08f7c5a4" />
+
+
+**TRRS reference (female will be inverse of this, from top to bottom)**
+<img width="193" height="256" alt="images-trrs" src="https://github.com/user-attachments/assets/6e9a67c9-6cad-4ee3-9b4b-d23ee2ee7dea" />
