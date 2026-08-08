@@ -11,6 +11,16 @@ Here is a paragraph with **bold text**, *italics*, or lists:
 - Second point
 
 {% endcomment %}
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 90%; margin: 16px auto; border-radius: 12px;">
+  <iframe 
+    src="https://www.youtube.com/embed/nniCFtWoVCU" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 12px;">
+  </iframe>
+</div>
 
 **A follow up of my 2yr old YouTube short**
 So a while back I uploaded this short not knowing it'll start reaching to a wide audience up until recently. Its funny how YouTube will keep a video dormant and then suddenly find audience for it and will blow it up. I have noticed this before and I still find it weird.
@@ -52,3 +62,5 @@ The original yt short
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 12px;">
   </iframe>
 </div>
+
+
