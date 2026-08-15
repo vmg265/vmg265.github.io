@@ -1,3 +1,16 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 title: "My journeys through tech"
 description: "A look into my journey and projects."
+show_downloads: false
+github:
+  is_project_page: false
+giscus:
+  repo_id: "1308559847"
+  category_id: "DIC_kwDOF6ixp84Chrcv"
+  mapping: "pathname"
+  strict: "0"
+  reactions_enabled: "1"
+  emit_metadata: "0"
+  input_position: "bottom"
+  theme: "preferred_color_scheme"
+  lang: "en"
